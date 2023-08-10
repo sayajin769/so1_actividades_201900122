@@ -1,3 +1,4 @@
+(los logs que se imprimieron en la terminal, estan comentados y se pueden ver en la pestaña <code>)
 # Parte 1: Gestión de Usuarios
 ## 1. Creación de Usuarios: Crea tres usuarios llamados `usuario1`, `usuario2` y `usuario3`.
 
@@ -106,7 +107,7 @@ sudo userdel usuario3
 -->
 
 
-# PParte 2: Gestión de Grupos
+# Parte 2: Gestión de Grupos
 ## 1. Creación de Grupos: Crea dos grupos llamados `grupo1` y `grupo2`.
 
 ### comandos:
