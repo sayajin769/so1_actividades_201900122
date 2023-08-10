@@ -1,4 +1,4 @@
-(los logs que se imprimieron en la terminal, estan comentados y se pueden ver en la pestaña <code>)
+(los logs que se imprimieron en la terminal, estan comentados y se pueden ver en la pestaña code)
 # Parte 1: Gestión de Usuarios
 ## 1. Creación de Usuarios: Crea tres usuarios llamados `usuario1`, `usuario2` y `usuario3`.
 
