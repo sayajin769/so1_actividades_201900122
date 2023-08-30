@@ -48,7 +48,7 @@ journalctl -xe -u saludo.service
 ## Imagenes con proceso realizaod en ubuntu 20.04:
 EN mi caso olvide colocar los permisos al archivo saludo_script.sh, pero se le colocaron durante el proceso cuando se hallo un error:
 
-![](/1.png)
+![](1.png)
 ![](/2.png)
 ![](/3.png)
 ![](/4.png)
